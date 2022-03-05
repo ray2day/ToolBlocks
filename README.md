@@ -29,4 +29,5 @@ v1.00
 exactly the same as TOOLBL.BAS only ROM version
 created with JLTursan's MSX-BASIC ROM creator v1.0 
 
-
+
+(C) 2021 RAY2DAY MSX SOFTWARE
